@@ -1,6 +1,5 @@
 const cityName = document.getElementById('cityName');
 const submitBtn = document.getElementById('submitBtn');
-
 const city_name = document.getElementById('city_name');
 const temp_real_val = document.getElementById('temp_real_val');
 const temp_status = document.getElementById('temp_status');
